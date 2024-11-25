@@ -1,0 +1,31 @@
+
+header
+{
+    background-color:blue ;
+    color: white;
+    padding: 16px;
+    width: 100%;
+    margin-left: -10px;
+    text-align: center;
+}
+
+section
+{
+    border-radius: 15px;
+    border-color: black;
+    box-shadow: 2px 2px 22px 0px;
+    background-color: white;
+    box-sizing: 20px;
+    height: 150px;
+    border: 0 10 2;
+}
+
+h3
+{
+    margin-left: 3px;
+}
+
+strong
+{
+    color:  red;
+}
